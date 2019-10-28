@@ -1,5 +1,4 @@
-const response = [
-    {
+const response = [{
         name: 'Decadent Week in Cape Town',
         id: 0,
         image: 'cape-town.jpg',
@@ -7,8 +6,7 @@ const response = [
         dateTo: 'Oct 18th 2019',
         guests: 4,
         category: 'adventure',
-        copy:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
+        copy: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
     },
     {
         name: 'Relax in Maui',
@@ -18,8 +16,7 @@ const response = [
         dateTo: 'Oct 27th 2019',
         guests: 2,
         category: 'relaxing',
-        copy:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
+        copy: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
     },
     {
         name: 'Weekend in Vegas',
@@ -29,8 +26,7 @@ const response = [
         dateTo: 'May 10th 2020',
         guests: 2,
         category: 'weekend break',
-        copy:
-            'Next level vexillologist taiyaki migas cloud bread post-ironic. Offal selvage gastropub bitters.'
+        copy: 'Next level vexillologist taiyaki migas cloud bread post-ironic. Offal selvage gastropub bitters.'
     },
     {
         name: 'Hiking in the Peaks',
@@ -50,8 +46,7 @@ const response = [
         dateTo: 'Aug 9th 2020',
         guests: 2,
         category: 'weekend break',
-        copy:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
+        copy: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
     },
     {
         name: 'Weekend at an Ice Hotel',
@@ -61,8 +56,7 @@ const response = [
         dateTo: 'Jan 16th 2020',
         guests: 4,
         category: 'family',
-        copy:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
+        copy: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
     },
     {
         name: 'Best of Rio de Janeiro',
@@ -72,8 +66,7 @@ const response = [
         dateTo: 'Jan 21th 2020',
         guests: 3,
         category: 'weekend break',
-        copy:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
+        copy: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
     },
     {
         name: 'Midsummer in Helsinki',
@@ -83,8 +76,7 @@ const response = [
         dateTo: 'June 21th 2020',
         guests: 2,
         category: 'weekend break',
-        copy:
-            'Next level vexillologist taiyaki migas cloud bread post-ironic. Offal selvage gastropub bitters.'
+        copy: 'Next level vexillologist taiyaki migas cloud bread post-ironic. Offal selvage gastropub bitters.'
     },
     {
         name: 'Gardens of Damyang',
@@ -94,8 +86,7 @@ const response = [
         dateTo: 'May 30th 2020',
         guests: 2,
         category: 'adventure',
-        copy:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
+        copy: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
     },
     {
         name: 'India',
@@ -105,8 +96,7 @@ const response = [
         dateTo: 'Feb 9th 2020',
         guests: 1,
         category: 'family',
-        copy:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
+        copy: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
     },
     {
         name: 'A Weekend in Vancouver',
@@ -116,8 +106,7 @@ const response = [
         dateTo: 'Oct 8st 2019',
         guests: 2,
         category: 'family',
-        copy:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
+        copy: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
     },
     {
         name: 'Antwerpen',
@@ -127,8 +116,7 @@ const response = [
         dateTo: 'March 4th 2020',
         guests: 2,
         category: 'weekend trip',
-        copy:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
+        copy: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
     },
     {
         name: 'Decadent Week in Cape Town',
@@ -138,8 +126,7 @@ const response = [
         dateTo: 'Oct 18th 2019',
         guests: 4,
         category: 'adventure',
-        copy:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
+        copy: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
     },
     {
         name: 'A Weekend in Boston',
@@ -159,8 +146,7 @@ const response = [
         dateTo: 'Oct 22th 2019',
         guests: 4,
         category: 'family',
-        copy:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
+        copy: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
     },
     {
         name: 'The Atlanta Experience',
@@ -170,8 +156,7 @@ const response = [
         dateTo: 'Oct 27th 2019',
         guests: 2,
         category: 'long weekend',
-        copy:
-            'Enjoy one the greatest gems of the south, Atlanta, GA, for a spooky Halloween weekend.'
+        copy: 'Enjoy one the greatest gems of the south, Atlanta, GA, for a spooky Halloween weekend.'
     },
     {
         name: 'Sculpture Park',
@@ -181,8 +166,7 @@ const response = [
         dateTo: 'Spt 03th 2019',
         guests: 1,
         category: 'family',
-        copy:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
+        copy: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
     },
     {
         name: 'Meeting Ancestors at Serra da Capivara National Park',
@@ -192,8 +176,7 @@ const response = [
         dateTo: 'Oct 30th 2019',
         guests: 4,
         category: 'World Heritage Site',
-        copy:
-            'Meet the largest and oldest concentration of prehistoric sites in the Americas. Sítio do Meio has many prehistoric paintings.'
+        copy: 'Meet the largest and oldest concentration of prehistoric sites in the Americas. Sítio do Meio has many prehistoric paintings.'
     },
     {
         name: 'Pittsburgh',
@@ -203,8 +186,7 @@ const response = [
         dateTo: 'Dec 18th 2019',
         guests: 1,
         category: 'family',
-        copy:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
+        copy: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
     },
     {
         name: 'Legoland Germany',
@@ -214,8 +196,7 @@ const response = [
         dateTo: 'Oct 20th 2019',
         guests: 4,
         category: 'family',
-        copy:
-            'Teamwork of the whole family is required – this is the only chance to frustrate the plans of the villainous pharaoh…'
+        copy: 'Teamwork of the whole family is required – this is the only chance to frustrate the plans of the villainous pharaoh…'
     },
     {
         name: 'Weekend in Vegas',
@@ -225,8 +206,7 @@ const response = [
         dateTo: 'May 10th 2020',
         guests: 2,
         category: 'weekend break',
-        copy:
-            'Next level vexillologist taiyaki migas cloud bread post-ironic. Offal selvage gastropub bitters.'
+        copy: 'Next level vexillologist taiyaki migas cloud bread post-ironic. Offal selvage gastropub bitters.'
     },
     {
         name: 'Hiking in the Peaks',
@@ -256,8 +236,7 @@ const response = [
         dateTo: 'Aug 9th 2020',
         guests: 2,
         category: 'weekend break',
-        copy:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
+        copy: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
     },
     {
         name: 'Celebration in New York',
@@ -277,8 +256,7 @@ const response = [
         dateTo: 'Sept 28th 2019',
         guests: 1,
         category: 'State Park',
-        copy:
-            'Meet the largest and oldest concentration of prehistoric sites in the Americas. Sítio do Meio has many prehistoric paintings.'
+        copy: 'Meet the largest and oldest concentration of prehistoric sites in the Americas. Sítio do Meio has many prehistoric paintings.'
     },
     {
         name: 'Vacay in Mauritius',
@@ -288,8 +266,7 @@ const response = [
         dateTo: 'Oct 18th 2019',
         guests: 4,
         category: 'family',
-        copy:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
+        copy: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
     },
     {
         name: 'Japan Adventure',
@@ -299,8 +276,7 @@ const response = [
         dateTo: 'Oct 14th 2019',
         guests: 5,
         category: 'Adventure',
-        copy:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
+        copy: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
     },
     {
         name: 'Meeting Florianopolis',
@@ -310,8 +286,7 @@ const response = [
         dateTo: 'Oct 30th 2019',
         guests: 4,
         category: 'weekend trip',
-        copy:
-            'is the capital and second largest city of the state of Santa Catarina, in the South region of Brazil. The city encompasses Santa Catarina Island and surrounding small islands, as well as part of the mainland'
+        copy: 'is the capital and second largest city of the state of Santa Catarina, in the South region of Brazil. The city encompasses Santa Catarina Island and surrounding small islands, as well as part of the mainland'
     },
     {
         name: 'Weekend in Moscow',
@@ -321,8 +296,7 @@ const response = [
         dateTo: 'Oct 21th 2019',
         guests: 2,
         category: 'weekend break',
-        copy:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
+        copy: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
     },
     {
         name: 'Weekend in Mon Cham',
@@ -342,8 +316,7 @@ const response = [
         dateTo: 'Oct 26th 2019',
         guests: 5,
         category: 'adventure',
-        copy:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
+        copy: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
     },
     {
         name: 'Spa Day at the Blue Lagoon in Iceland',
@@ -353,8 +326,7 @@ const response = [
         dateTo: 'Oct 10th 2020',
         guests: 4,
         category: 'family',
-        copy:
-            "Argentina's capital, Buenos Aires is the second largest urban area in South America, full of great tourist attractions, museums, restaurants."
+        copy: "Argentina's capital, Buenos Aires is the second largest urban area in South America, full of great tourist attractions, museums, restaurants."
     },
     {
         name: 'Weeked in Japan',
@@ -364,8 +336,7 @@ const response = [
         dateTo: 'Jan 2th 2020',
         guests: 5,
         category: 'family',
-        copy:
-            'Shirakawa is a mountain village located in far northern Gifu Prefecture, bordering Ishikawa Prefecture and Toyama Prefecture on the Ryōhaku Mountains.'
+        copy: 'Shirakawa is a mountain village located in far northern Gifu Prefecture, bordering Ishikawa Prefecture and Toyama Prefecture on the Ryōhaku Mountains.'
     },
     {
         name: 'Adventure in Ponta Negra - Rio Grande do Norte',
@@ -375,8 +346,7 @@ const response = [
         dateTo: 'Nov 10th 2019',
         guests: 5,
         category: 'adventure',
-        copy:
-            'Ponta Negra  is a beach and neighborhood located in the Brazilian city of Natal, the capital of the state of Rio Grande do Norte. Located in the extreme south of the beach is the Morro do Careca, a large dune and a landmark of the city.'
+        copy: 'Ponta Negra  is a beach and neighborhood located in the Brazilian city of Natal, the capital of the state of Rio Grande do Norte. Located in the extreme south of the beach is the Morro do Careca, a large dune and a landmark of the city.'
     },
     {
         name: 'Empire State Building',
@@ -386,8 +356,7 @@ const response = [
         dateTo: 'Nov 15th 2019',
         guests: 2,
         category: 'family',
-        copy:
-            'The Empire State Building has an amazing observation deck to look past New York and into Northern New Jersey while admiring all the surrondings that the concrete jungle has to offer.'
+        copy: 'The Empire State Building has an amazing observation deck to look past New York and into Northern New Jersey while admiring all the surrondings that the concrete jungle has to offer.'
     },
     {
         name: 'A Week In Cancun',
@@ -397,8 +366,7 @@ const response = [
         dateTo: 'May 7th 2020',
         guests: 2,
         category: 'adventure',
-        copy:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
+        copy: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
     },
     {
         name: 'New Years Eve in Singapore',
@@ -408,8 +376,17 @@ const response = [
         dateTo: 'January 1st 2020',
         guests: 5,
         category: 'family',
-        copy:
-            'End 2019 with a party you’ll not soon forget! The Marina Bay Singapore Countdown returns, to usher in the new year with fireworks displays lighting up the night sky alongside a host of exciting activities on the streets.'
+        copy: 'End 2019 with a party you’ll not soon forget! The Marina Bay Singapore Countdown returns, to usher in the new year with fireworks displays lighting up the night sky alongside a host of exciting activities on the streets.'
+    },
+    {
+        name: 'Relaxing Holiday in the Waterfalls of Brazil',
+        id: 38,
+        image: 'cachoeiradocha.jpg',
+        dateFrom: 'Dec 20th 2019',
+        dateTo: 'Jan 5th 2020',
+        guests: 4,
+        category: 'adventure',
+        copy: 'Located about 137 km from the city of São Paulo, Light trail in the Valley of the Owls River in the middle of the forest takes us to the imposing waterfall of Chá, about 30m high!'
     }
 ]
 
